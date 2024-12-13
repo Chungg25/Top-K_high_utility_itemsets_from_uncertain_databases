@@ -1,0 +1,507 @@
+minUtil: 1491
+1. Pattern: ('40', '49'), ExpSup: 7190.44, Utility: 469057
+2. Pattern: ('49',), ExpSup: 21135.04, Utility: 461182
+3. Pattern: ('40',), ExpSup: 25268.8, Utility: 277044
+4. Pattern: ('33',), ExpSup: 7519.53, Utility: 250500
+5. Pattern: ('40', '42'), ExpSup: 2823.23, Utility: 247751
+6. Pattern: ('42',), ExpSup: 7426.48, Utility: 245544
+7. Pattern: ('42', '49'), ExpSup: 2260.68, Utility: 245526
+8. Pattern: ('40', '42', '49'), ExpSup: 910.15, Utility: 238995
+9. Pattern: ('33', '49'), ExpSup: 1997.84, Utility: 219637
+10. Pattern: ('33', '40'), ExpSup: 2084.0, Utility: 184406
+11. Pattern: ('33', '40', '49'), ExpSup: 670.37, Utility: 176116
+12. Pattern: ('39', '49'), ExpSup: 1978.61, Utility: 173186
+13. Pattern: ('39',), ExpSup: 7775.43, Utility: 169166
+14. Pattern: ('39', '40'), ExpSup: 2601.55, Utility: 168175
+15. Pattern: ('39', '40', '49'), ExpSup: 763.78, Utility: 165797
+16. Pattern: ('37', '39'), ExpSup: 689.65, Utility: 150880
+17. Pattern: ('37',), ExpSup: 1470.53, Utility: 128112
+18. Pattern: ('37', '39', '40'), ExpSup: 229.18, Utility: 114679
+19. Pattern: ('39', '42'), ExpSup: 972.88, Utility: 107009
+20. Pattern: ('33', '42'), ExpSup: 788.13, Utility: 104379
+21. Pattern: ('39', '40', '42'), ExpSup: 379.96, Utility: 99862
+22. Pattern: ('37', '40'), ExpSup: 503.44, Utility: 99524
+23. Pattern: ('39', '42', '49'), ExpSup: 298.58, Utility: 90926
+24. Pattern: ('33', '42', '49'), ExpSup: 259.72, Utility: 89907
+25. Pattern: ('33', '40', '42'), ExpSup: 284.76, Utility: 88643
+26. Pattern: ('37', '39', '49'), ExpSup: 170.53, Utility: 88246
+27. Pattern: ('39', '40', '42', '49'), ExpSup: 126.26, Utility: 86423
+28. Pattern: ('33', '40', '42', '49'), ExpSup: 102.12, Utility: 79704
+29. Pattern: ('37', '49'), ExpSup: 377.65, Utility: 77214
+30. Pattern: ('33', '39'), ExpSup: 703.0, Utility: 76743
+31. Pattern: ('37', '39', '40', '49'), ExpSup: 65.07, Utility: 76209
+32. Pattern: ('37', '40', '49'), ExpSup: 147.58, Utility: 67481
+33. Pattern: ('33', '39', '49'), ExpSup: 205.44, Utility: 62398
+34. Pattern: ('10',), ExpSup: 703.35, Utility: 60752
+35. Pattern: ('33', '39', '40'), ExpSup: 227.32, Utility: 59633
+36. Pattern: ('49', '66'), ExpSup: 631.7, Utility: 55418
+37. Pattern: ('33', '39', '40', '49'), ExpSup: 75.55, Utility: 53438
+38. Pattern: ('66',), ExpSup: 2237.39, Utility: 49622
+39. Pattern: ('40', '49', '66'), ExpSup: 225.09, Utility: 48728
+40. Pattern: ('37', '39', '42'), ExpSup: 79.81, Utility: 48349
+41. Pattern: ('40', '49', '90'), ExpSup: 268.16, Utility: 46191
+42. Pattern: ('40', '66'), ExpSup: 695.2, Utility: 45860
+43. Pattern: ('49', '90'), ExpSup: 697.17, Utility: 45822
+44. Pattern: ('111', '39'), ExpSup: 686.7, Utility: 44652
+45. Pattern: ('10', '49'), ExpSup: 202.63, Utility: 43264
+46. Pattern: ('37', '42'), ExpSup: 174.13, Utility: 43194
+47. Pattern: ('37', '39', '40', '42'), ExpSup: 32.92, Utility: 42042
+48. Pattern: ('10', '40'), ExpSup: 216.11, Utility: 41367
+49. Pattern: ('61',), ExpSup: 740.74, Utility: 40750
+50. Pattern: ('37', '40', '42'), ExpSup: 71.11, Utility: 37766
+51. Pattern: ('111', '39', '40'), ExpSup: 217.92, Utility: 37754
+52. Pattern: ('111', '39', '49'), ExpSup: 174.0, Utility: 37027
+53. Pattern: ('124',), ExpSup: 659.4, Utility: 35895
+54. Pattern: ('80',), ExpSup: 791.67, Utility: 34944
+55. Pattern: ('33', '39', '42'), ExpSup: 97.31, Utility: 34620
+56. Pattern: ('10', '40', '49'), ExpSup: 65.13, Utility: 32981
+57. Pattern: ('19',), ExpSup: 436.69, Utility: 32844
+58. Pattern: ('33', '37', '39'), ExpSup: 65.41, Utility: 32347
+59. Pattern: ('40', '61'), ExpSup: 243.52, Utility: 31900
+60. Pattern: ('49', '50'), ExpSup: 207.42, Utility: 31708
+61. Pattern: ('37', '39', '42', '49'), ExpSup: 22.14, Utility: 31462
+62. Pattern: ('49', '61'), ExpSup: 194.68, Utility: 30989
+63. Pattern: ('50',), ExpSup: 549.08, Utility: 30480
+64. Pattern: ('33', '39', '40', '42'), ExpSup: 37.66, Utility: 30019
+65. Pattern: ('40', '90'), ExpSup: 688.57, Utility: 29931
+66. Pattern: ('40', '80'), ExpSup: 270.93, Utility: 29893
+67. Pattern: ('33', '39', '42', '49'), ExpSup: 33.33, Utility: 29218
+68. Pattern: ('33', '37'), ExpSup: 133.67, Utility: 29054
+69. Pattern: ('49', '80'), ExpSup: 223.91, Utility: 28980
+70. Pattern: ('79',), ExpSup: 534.08, Utility: 28975
+71. Pattern: ('102', '49'), ExpSup: 336.33, Utility: 28682
+72. Pattern: ('38', '39'), ExpSup: 268.97, Utility: 28367
+73. Pattern: ('37', '42', '49'), ExpSup: 49.87, Utility: 28318
+74. Pattern: ('20',), ExpSup: 511.41, Utility: 28090
+75. Pattern: ('42', '66'), ExpSup: 249.15, Utility: 27353
+76. Pattern: ('37', '40', '42', '49'), ExpSup: 22.34, Utility: 26710
+77. Pattern: ('33', '39', '40', '42', '49'), ExpSup: 13.55, Utility: 26493
+78. Pattern: ('40', '49', '61'), ExpSup: 71.57, Utility: 26303
+79. Pattern: ('40', '49', '50'), ExpSup: 74.44, Utility: 26236
+80. Pattern: ('40', '49', '80'), ExpSup: 85.94, Utility: 26191
+81. Pattern: ('40', '42', '66'), ExpSup: 98.43, Utility: 26086
+82. Pattern: ('102', '40', '49'), ExpSup: 123.58, Utility: 25667
+83. Pattern: ('42', '49', '66'), ExpSup: 86.41, Utility: 25468
+84. Pattern: ('40', '79'), ExpSup: 192.49, Utility: 25397
+85. Pattern: ('40', '50'), ExpSup: 190.21, Utility: 24809
+86. Pattern: ('46',), ExpSup: 459.62, Utility: 24605
+87. Pattern: ('102',), ExpSup: 1139.52, Utility: 24494
+88. Pattern: ('40', '42', '49', '66'), ExpSup: 36.07, Utility: 23918
+89. Pattern: ('19', '40'), ExpSup: 138.49, Utility: 23020
+90. Pattern: ('102', '40'), ExpSup: 362.63, Utility: 23007
+91. Pattern: ('20', '49'), ExpSup: 143.34, Utility: 22767
+92. Pattern: ('33', '37', '39', '40'), ExpSup: 19.75, Utility: 22651
+93. Pattern: ('54',), ExpSup: 257.55, Utility: 22576
+94. Pattern: ('111', '49'), ExpSup: 351.39, Utility: 22572
+95. Pattern: ('111', '40', '49'), ExpSup: 137.13, Utility: 22475
+96. Pattern: ('19', '49'), ExpSup: 118.97, Utility: 22321
+97. Pattern: ('38', '39', '40'), ExpSup: 92.54, Utility: 22225
+98. Pattern: ('111', '39', '42'), ExpSup: 88.23, Utility: 21752
+99. Pattern: ('33', '66'), ExpSup: 184.47, Utility: 21082
+100. Pattern: ('90',), ExpSup: 1913.99, Utility: 21008
+101. Pattern: ('33', '37', '40'), ExpSup: 44.94, Utility: 20848
+102. Pattern: ('33', '37', '39', '49'), ExpSup: 17.66, Utility: 20068
+103. Pattern: ('42', '49', '90'), ExpSup: 78.16, Utility: 19737
+104. Pattern: ('20', '40'), ExpSup: 144.38, Utility: 19639
+105. Pattern: ('40', '42', '49', '90'), ExpSup: 35.6, Utility: 19572
+106. Pattern: ('111', '39', '40', '42'), ExpSup: 32.56, Utility: 19279
+107. Pattern: ('111', '40'), ExpSup: 436.33, Utility: 19122
+108. Pattern: ('42', '80'), ExpSup: 122.34, Utility: 19027
+109. Pattern: ('33', '49', '66'), ExpSup: 59.82, Utility: 18735
+110. Pattern: ('10', '42'), ExpSup: 79.52, Utility: 18679
+111. Pattern: ('38', '39', '40', '49'), ExpSup: 28.69, Utility: 18643
+112. Pattern: ('33', '49', '90'), ExpSup: 65.85, Utility: 18421
+113. Pattern: ('46', '49'), ExpSup: 128.41, Utility: 18356
+114. Pattern: ('33', '37', '49'), ExpSup: 35.82, Utility: 18282
+115. Pattern: ('40', '46'), ExpSup: 142.17, Utility: 17876
+116. Pattern: ('20', '40', '49'), ExpSup: 47.22, Utility: 17781
+117. Pattern: ('38',), ExpSup: 557.0, Utility: 17673
+118. Pattern: ('19', '40', '49'), ExpSup: 41.16, Utility: 17391
+119. Pattern: ('118',), ExpSup: 510.94, Utility: 16950
+120. Pattern: ('33', '40', '66'), ExpSup: 59.04, Utility: 16785
+121. Pattern: ('33', '40', '49', '90'), ExpSup: 25.47, Utility: 16711
+122. Pattern: ('40', '42', '90'), ExpSup: 82.63, Utility: 16519
+123. Pattern: ('10', '42', '49'), ExpSup: 26.65, Utility: 16421
+124. Pattern: ('40', '42', '80'), ExpSup: 47.87, Utility: 16233
+125. Pattern: ('42', '49', '80'), ExpSup: 40.84, Utility: 15949
+126. Pattern: ('10', '40', '42'), ExpSup: 30.21, Utility: 15949
+127. Pattern: ('39', '49', '90'), ExpSup: 70.5, Utility: 15825
+128. Pattern: ('42', '90'), ExpSup: 189.01, Utility: 15813
+129. Pattern: ('38', '49'), ExpSup: 147.17, Utility: 15534
+130. Pattern: ('33', '40', '49', '66'), ExpSup: 21.45, Utility: 15465
+131. Pattern: ('38', '40'), ExpSup: 186.21, Utility: 15451
+132. Pattern: ('33', '90'), ExpSup: 173.46, Utility: 15388
+133. Pattern: ('111',), ExpSup: 1398.23, Utility: 15317
+134. Pattern: ('39', '40', '49', '90'), ExpSup: 30.32, Utility: 15147
+135. Pattern: ('33', '80'), ExpSup: 86.36, Utility: 14879
+136. Pattern: ('111', '33', '39'), ExpSup: 53.34, Utility: 14868
+137. Pattern: ('33', '37', '40', '49'), ExpSup: 13.99, Utility: 14830
+138. Pattern: ('111', '42'), ExpSup: 170.37, Utility: 14782
+139. Pattern: ('57',), ExpSup: 269.44, Utility: 14765
+140. Pattern: ('10', '33'), ExpSup: 63.19, Utility: 14737
+141. Pattern: ('39', '48'), ExpSup: 102.58, Utility: 14584
+142. Pattern: ('38', '40', '49'), ExpSup: 60.79, Utility: 14363
+143. Pattern: ('39', '66'), ExpSup: 162.19, Utility: 14202
+144. Pattern: ('33', '40', '90'), ExpSup: 64.74, Utility: 14127
+145. Pattern: ('39', '56'), ExpSup: 174.71, Utility: 13958
+146. Pattern: ('111', '40', '42'), ExpSup: 63.06, Utility: 13948
+147. Pattern: ('104',), ExpSup: 405.72, Utility: 13893
+148. Pattern: ('39', '40', '66'), ExpSup: 60.7, Utility: 13578
+149. Pattern: ('39', '49', '66'), ExpSup: 51.77, Utility: 13512
+150. Pattern: ('102', '42'), ExpSup: 120.89, Utility: 12992
+151. Pattern: ('39', '40', '90'), ExpSup: 72.47, Utility: 12724
+152. Pattern: ('12', '49'), ExpSup: 119.91, Utility: 12672
+153. Pattern: ('102', '42', '49'), ExpSup: 41.32, Utility: 12633
+154. Pattern: ('39', '40', '49', '66'), ExpSup: 20.05, Utility: 12577
+155. Pattern: ('39', '90'), ExpSup: 190.59, Utility: 12482
+156. Pattern: ('39', '40', '48'), ExpSup: 36.66, Utility: 12147
+157. Pattern: ('102', '40', '42'), ExpSup: 46.57, Utility: 11981
+158. Pattern: ('118', '40'), ExpSup: 143.78, Utility: 11956
+159. Pattern: ('11',), ExpSup: 355.31, Utility: 11895
+160. Pattern: ('39', '48', '49'), ExpSup: 30.53, Utility: 11832
+161. Pattern: ('11', '49'), ExpSup: 110.76, Utility: 11755
+162. Pattern: ('12',), ExpSup: 361.42, Utility: 11616
+163. Pattern: ('84',), ExpSup: 90.95, Utility: 11528
+164. Pattern: ('102', '40', '42', '49'), ExpSup: 16.31, Utility: 11466
+165. Pattern: ('12', '40', '49'), ExpSup: 43.11, Utility: 11391
+166. Pattern: ('39', '40', '56'), ExpSup: 58.96, Utility: 11340
+167. Pattern: ('95',), ExpSup: 254.16, Utility: 11296
+168. Pattern: ('53',), ExpSup: 246.12, Utility: 11076
+169. Pattern: ('102', '33'), ExpSup: 113.98, Utility: 10972
+170. Pattern: ('42', '61'), ExpSup: 67.27, Utility: 10890
+171. Pattern: ('97',), ExpSup: 164.75, Utility: 10854
+172. Pattern: ('19', '42'), ExpSup: 49.09, Utility: 10848
+173. Pattern: ('33', '61'), ExpSup: 64.3, Utility: 10847
+174. Pattern: ('38', '39', '42'), ExpSup: 32.55, Utility: 10695
+175. Pattern: ('39', '40', '48', '49'), ExpSup: 13.01, Utility: 10688
+176. Pattern: ('11', '40', '49'), ExpSup: 40.55, Utility: 10545
+177. Pattern: ('19', '33'), ExpSup: 49.12, Utility: 10506
+178. Pattern: ('10', '33', '49'), ExpSup: 19.25, Utility: 10493
+179. Pattern: ('39', '80'), ExpSup: 88.32, Utility: 10460
+180. Pattern: ('81',), ExpSup: 235.38, Utility: 10396
+181. Pattern: ('12', '40'), ExpSup: 117.98, Utility: 10318
+182. Pattern: ('108', '49'), ExpSup: 117.91, Utility: 10284
+183. Pattern: ('10', '39'), ExpSup: 52.85, Utility: 10282
+184. Pattern: ('37', '39', '66'), ExpSup: 19.25, Utility: 10230
+185. Pattern: ('39', '49', '56'), ExpSup: 44.69, Utility: 10184
+186. Pattern: ('40', '42', '61'), ExpSup: 24.34, Utility: 10155
+187. Pattern: ('111', '33'), ExpSup: 105.12, Utility: 10138
+188. Pattern: ('33', '37', '42'), ExpSup: 18.29, Utility: 10098
+189. Pattern: ('48',), ExpSup: 213.17, Utility: 9964
+190. Pattern: ('33', '42', '66'), ExpSup: 26.97, Utility: 9820
+191. Pattern: ('11', '40'), ExpSup: 115.2, Utility: 9746
+192. Pattern: ('238', '37', '39'), ExpSup: 20.72, Utility: 9680
+193. Pattern: ('102', '33', '49'), ExpSup: 35.42, Utility: 9606
+194. Pattern: ('10', '33', '40'), ExpSup: 18.48, Utility: 9574
+195. Pattern: ('42', '50'), ExpSup: 58.57, Utility: 9525
+196. Pattern: ('42', '49', '50'), ExpSup: 24.28, Utility: 9469
+197. Pattern: ('39', '40', '49', '56'), ExpSup: 19.47, Utility: 9201
+198. Pattern: ('39', '42', '66'), ExpSup: 27.56, Utility: 9127
+199. Pattern: ('19', '40', '42'), ExpSup: 21.03, Utility: 9127
+200. Pattern: ('37', '39', '90'), ExpSup: 18.12, Utility: 9108
+201. Pattern: ('111', '33', '49'), ExpSup: 30.64, Utility: 9077
+202. Pattern: ('37', '66'), ExpSup: 39.02, Utility: 9012
+203. Pattern: ('10', '39', '40'), ExpSup: 21.64, Utility: 8968
+204. Pattern: ('48', '49'), ExpSup: 64.25, Utility: 8966
+205. Pattern: ('19', '42', '49'), ExpSup: 17.52, Utility: 8861
+206. Pattern: ('40', '48'), ExpSup: 75.75, Utility: 8803
+207. Pattern: ('108', '40', '49'), ExpSup: 40.32, Utility: 8779
+208. Pattern: ('39', '40', '80'), ExpSup: 32.97, Utility: 8732
+209. Pattern: ('39', '40', '42', '66'), ExpSup: 11.72, Utility: 8675
+210. Pattern: ('39', '50'), ExpSup: 56.15, Utility: 8613
+211. Pattern: ('20', '42'), ExpSup: 48.73, Utility: 8556
+212. Pattern: ('39', '49', '80'), ExpSup: 28.97, Utility: 8532
+213. Pattern: ('102', '33', '40'), ExpSup: 37.06, Utility: 8531
+214. Pattern: ('31',), ExpSup: 269.27, Utility: 8523
+215. Pattern: ('108',), ExpSup: 376.99, Utility: 8512
+216. Pattern: ('226', '37', '39'), ExpSup: 17.23, Utility: 8496
+217. Pattern: ('39', '49', '50'), ExpSup: 22.89, Utility: 8429
+218. Pattern: ('40', '48', '49'), ExpSup: 27.55, Utility: 8417
+219. Pattern: ('40', '97'), ExpSup: 53.58, Utility: 8404
+220. Pattern: ('70',), ExpSup: 131.79, Utility: 8382
+221. Pattern: ('42', '49', '61'), ExpSup: 21.05, Utility: 8366
+222. Pattern: ('49', '97'), ExpSup: 43.19, Utility: 8338
+223. Pattern: ('40', '42', '50'), ExpSup: 25.5, Utility: 8336
+224. Pattern: ('33', '40', '61'), ExpSup: 22.59, Utility: 8307
+225. Pattern: ('37', '40', '66'), ExpSup: 14.7, Utility: 8161
+226. Pattern: ('38', '42'), ExpSup: 66.81, Utility: 8079
+227. Pattern: ('238', '37'), ExpSup: 43.92, Utility: 8044
+228. Pattern: ('129',), ExpSup: 135.9, Utility: 7995
+229. Pattern: ('10', '39', '49'), ExpSup: 15.76, Utility: 7920
+230. Pattern: ('111', '33', '40'), ExpSup: 32.07, Utility: 7911
+231. Pattern: ('109',), ExpSup: 114.98, Utility: 7884
+232. Pattern: ('20', '33'), ExpSup: 42.16, Utility: 7855
+233. Pattern: ('31', '49'), ExpSup: 76.1, Utility: 7824
+234. Pattern: ('37', '90'), ExpSup: 39.44, Utility: 7757
+235. Pattern: ('32', '49'), ExpSup: 128.96, Utility: 7704
+236. Pattern: ('39', '42', '49', '90'), ExpSup: 11.79, Utility: 7655
+237. Pattern: ('19', '33', '40'), ExpSup: 14.6, Utility: 7648
+238. Pattern: ('38', '40', '42'), ExpSup: 25.8, Utility: 7617
+239. Pattern: ('19', '33', '49'), ExpSup: 18.02, Utility: 7559
+240. Pattern: ('39', '40', '50'), ExpSup: 20.99, Utility: 7509
+241. Pattern: ('42', '46'), ExpSup: 46.3, Utility: 7468
+242. Pattern: ('102', '39', '49'), ExpSup: 26.76, Utility: 7464
+243. Pattern: ('102', '39'), ExpSup: 84.31, Utility: 7456
+244. Pattern: ('128',), ExpSup: 103.11, Utility: 7399
+245. Pattern: ('56',), ExpSup: 363.94, Utility: 7390
+246. Pattern: ('37', '49', '90'), ExpSup: 14.88, Utility: 7359
+247. Pattern: ('37', '40', '90'), ExpSup: 14.61, Utility: 7345
+248. Pattern: ('106', '40'), ExpSup: 108.72, Utility: 7312
+249. Pattern: ('40', '56'), ExpSup: 117.66, Utility: 7301
+250. Pattern: ('226', '37'), ExpSup: 36.02, Utility: 7295
+251. Pattern: ('39', '61'), ExpSup: 45.8, Utility: 7220
+252. Pattern: ('49', '56'), ExpSup: 90.66, Utility: 7218
+253. Pattern: ('31', '40'), ExpSup: 90.04, Utility: 7218
+254. Pattern: ('106',), ExpSup: 320.81, Utility: 7106
+255. Pattern: ('20', '42', '49'), ExpSup: 18.2, Utility: 7069
+256. Pattern: ('10', '66'), ExpSup: 37.47, Utility: 7066
+257. Pattern: ('39', '42', '90'), ExpSup: 27.32, Utility: 6971
+258. Pattern: ('33', '42', '90'), ExpSup: 21.27, Utility: 6948
+259. Pattern: ('24', '40', '49'), ExpSup: 40.3, Utility: 6924
+260. Pattern: ('32', '40', '49'), ExpSup: 43.68, Utility: 6905
+261. Pattern: ('108', '40'), ExpSup: 105.22, Utility: 6892
+262. Pattern: ('238', '37', '40'), ExpSup: 16.37, Utility: 6867
+263. Pattern: ('40', '49', '56'), ExpSup: 38.06, Utility: 6842
+264. Pattern: ('102', '39', '40'), ExpSup: 32.1, Utility: 6800
+265. Pattern: ('37', '49', '66'), ExpSup: 10.92, Utility: 6792
+266. Pattern: ('24', '49'), ExpSup: 103.05, Utility: 6781
+267. Pattern: ('13',), ExpSup: 213.04, Utility: 6771
+268. Pattern: ('31', '40', '49'), ExpSup: 29.07, Utility: 6768
+269. Pattern: ('61', '66'), ExpSup: 46.75, Utility: 6700
+270. Pattern: ('20', '40', '42'), ExpSup: 15.16, Utility: 6690
+271. Pattern: ('102', '39', '40', '49'), ExpSup: 10.94, Utility: 6688
+272. Pattern: ('39', '40', '42', '90'), ExpSup: 11.11, Utility: 6652
+273. Pattern: ('39', '40', '61'), ExpSup: 17.98, Utility: 6646
+274. Pattern: ('226', '37', '40'), ExpSup: 18.18, Utility: 6551
+275. Pattern: ('39', '46'), ExpSup: 40.25, Utility: 6523
+276. Pattern: ('45',), ExpSup: 96.49, Utility: 6486
+277. Pattern: ('10', '414'), ExpSup: 18.95, Utility: 6486
+278. Pattern: ('13', '49'), ExpSup: 61.77, Utility: 6463
+279. Pattern: ('49', '66', '90'), ExpSup: 27.15, Utility: 6443
+280. Pattern: ('12', '42', '49'), ExpSup: 15.03, Utility: 6367
+281. Pattern: ('12', '42'), ExpSup: 47.16, Utility: 6285
+282. Pattern: ('40', '42', '46'), ExpSup: 17.47, Utility: 6229
+283. Pattern: ('39', '49', '61'), ExpSup: 14.08, Utility: 6223
+284. Pattern: ('19', '39'), ExpSup: 35.1, Utility: 6206
+285. Pattern: ('3',), ExpSup: 272.72, Utility: 6168
+286. Pattern: ('28',), ExpSup: 75.47, Utility: 6125
+287. Pattern: ('12', '40', '42'), ExpSup: 16.73, Utility: 6087
+288. Pattern: ('44',), ExpSup: 105.84, Utility: 6040
+289. Pattern: ('20', '33', '49'), ExpSup: 14.2, Utility: 5946
+290. Pattern: ('40', '49', '66', '90'), ExpSup: 11.08, Utility: 5946
+291. Pattern: ('63',), ExpSup: 263.13, Utility: 5926
+292. Pattern: ('10', '20'), ExpSup: 22.92, Utility: 5854
+293. Pattern: ('3', '49'), ExpSup: 74.23, Utility: 5812
+294. Pattern: ('117',), ExpSup: 135.55, Utility: 5732
+295. Pattern: ('7',), ExpSup: 73.28, Utility: 5726
+296. Pattern: ('60',), ExpSup: 102.82, Utility: 5710
+297. Pattern: ('32', '40'), ExpSup: 138.31, Utility: 5701
+298. Pattern: ('40', '77'), ExpSup: 134.49, Utility: 5701
+299. Pattern: ('10', '311'), ExpSup: 19.97, Utility: 5696
+300. Pattern: ('20', '39'), ExpSup: 36.36, Utility: 5695
+301. Pattern: ('238', '37', '49'), ExpSup: 13.22, Utility: 5674
+302. Pattern: ('10', '90'), ExpSup: 27.33, Utility: 5648
+303. Pattern: ('105',), ExpSup: 112.99, Utility: 5644
+304. Pattern: ('24', '40'), ExpSup: 128.37, Utility: 5604
+305. Pattern: ('106', '39', '42'), ExpSup: 16.95, Utility: 5444
+306. Pattern: ('19', '39', '40'), ExpSup: 13.37, Utility: 5403
+307. Pattern: ('13', '40', '49'), ExpSup: 20.28, Utility: 5315
+308. Pattern: ('3', '40'), ExpSup: 77.05, Utility: 5289
+309. Pattern: ('2239', '80'), ExpSup: 25.3, Utility: 5265
+310. Pattern: ('37', '80'), ExpSup: 18.36, Utility: 5244
+311. Pattern: ('67',), ExpSup: 161.69, Utility: 5238
+312. Pattern: ('226', '37', '49'), ExpSup: 12.89, Utility: 5222
+313. Pattern: ('10', '102'), ExpSup: 20.69, Utility: 5164
+314. Pattern: ('102', '66'), ExpSup: 62.14, Utility: 5142
+315. Pattern: ('39', '42', '80'), ExpSup: 11.86, Utility: 5138
+316. Pattern: ('3', '40', '49'), ExpSup: 27.5, Utility: 5097
+317. Pattern: ('32',), ExpSup: 473.49, Utility: 5063
+318. Pattern: ('66', '90'), ExpSup: 72.72, Utility: 5044
+319. Pattern: ('102', '33', '42'), ExpSup: 16.76, Utility: 5019
+320. Pattern: ('13', '40'), ExpSup: 60.52, Utility: 5007
+321. Pattern: ('33', '39', '66'), ExpSup: 15.41, Utility: 4925
+322. Pattern: ('414', '61'), ExpSup: 18.91, Utility: 4858
+323. Pattern: ('39', '40', '46'), ExpSup: 14.12, Utility: 4856
+324. Pattern: ('19', '39', '49'), ExpSup: 11.78, Utility: 4820
+325. Pattern: ('41',), ExpSup: 108.3, Utility: 4804
+326. Pattern: ('40', '66', '90'), ExpSup: 26.37, Utility: 4803
+327. Pattern: ('72',), ExpSup: 70.31, Utility: 4788
+328. Pattern: ('311', '37'), ExpSup: 23.42, Utility: 4720
+329. Pattern: ('102', '39', '42'), ExpSup: 16.46, Utility: 4720
+330. Pattern: ('111', '33', '42'), ExpSup: 14.43, Utility: 4715
+331. Pattern: ('33', '39', '90'), ExpSup: 13.76, Utility: 4702
+332. Pattern: ('61', '90'), ExpSup: 38.29, Utility: 4621
+333. Pattern: ('10', '40', '90'), ExpSup: 11.28, Utility: 4598
+334. Pattern: ('311', '61'), ExpSup: 29.33, Utility: 4594
+335. Pattern: ('77',), ExpSup: 449.48, Utility: 4580
+336. Pattern: ('108', '42'), ExpSup: 43.69, Utility: 4576
+337. Pattern: ('49', '7'), ExpSup: 21.78, Utility: 4557
+338. Pattern: ('32', '42'), ExpSup: 48.52, Utility: 4504
+339. Pattern: ('37', '46'), ExpSup: 18.64, Utility: 4456
+340. Pattern: ('11', '42', '49'), ExpSup: 11.99, Utility: 4442
+341. Pattern: ('2',), ExpSup: 131.42, Utility: 4404
+342. Pattern: ('12', '33'), ExpSup: 30.95, Utility: 4404
+343. Pattern: ('108', '40', '42'), ExpSup: 16.64, Utility: 4373
+344. Pattern: ('111', '171'), ExpSup: 39.44, Utility: 4371
+345. Pattern: ('105', '40'), ExpSup: 37.37, Utility: 4313
+346. Pattern: ('15833', '19'), ExpSup: 16.59, Utility: 4312
+347. Pattern: ('11', '42'), ExpSup: 32.87, Utility: 4302
+348. Pattern: ('40', '7'), ExpSup: 23.91, Utility: 4286
+349. Pattern: ('12', '33', '49'), ExpSup: 10.92, Utility: 4259
+350. Pattern: ('11', '40', '42'), ExpSup: 13.93, Utility: 4245
+351. Pattern: ('102', '49', '66'), ExpSup: 15.85, Utility: 4222
+352. Pattern: ('102', '49', '90'), ExpSup: 23.45, Utility: 4208
+353. Pattern: ('28', '49'), ExpSup: 19.63, Utility: 4205
+354. Pattern: ('32', '40', '42'), ExpSup: 21.76, Utility: 4200
+355. Pattern: ('24',), ExpSup: 379.88, Utility: 4194
+356. Pattern: ('102', '37'), ExpSup: 21.65, Utility: 4164
+357. Pattern: ('10', '61'), ExpSup: 11.81, Utility: 4130
+358. Pattern: ('32', '42', '49'), ExpSup: 14.69, Utility: 4123
+359. Pattern: ('24', '40', '42'), ExpSup: 16.76, Utility: 4102
+360. Pattern: ('37', '38'), ExpSup: 18.68, Utility: 4061
+361. Pattern: ('85',), ExpSup: 47.23, Utility: 4060
+362. Pattern: ('24', '42'), ExpSup: 43.31, Utility: 4047
+363. Pattern: ('32', '33'), ExpSup: 49.92, Utility: 4030
+364. Pattern: ('108', '550'), ExpSup: 39.57, Utility: 4030
+365. Pattern: ('106', '42'), ExpSup: 36.67, Utility: 3829
+366. Pattern: ('10', '476'), ExpSup: 14.52, Utility: 3828
+367. Pattern: ('2', '49'), ExpSup: 33.17, Utility: 3815
+368. Pattern: ('102', '40', '66'), ExpSup: 19.38, Utility: 3766
+369. Pattern: ('10', '238'), ExpSup: 22.4, Utility: 3758
+370. Pattern: ('28', '40'), ExpSup: 20.71, Utility: 3757
+371. Pattern: ('24', '42', '49'), ExpSup: 13.41, Utility: 3754
+372. Pattern: ('106', '40', '42'), ExpSup: 14.21, Utility: 3749
+373. Pattern: ('10', '37'), ExpSup: 14.14, Utility: 3744
+374. Pattern: ('226', '80'), ExpSup: 34.51, Utility: 3728
+375. Pattern: ('108', '49', '550'), ExpSup: 11.44, Utility: 3698
+376. Pattern: ('31', '42'), ExpSup: 30.5, Utility: 3654
+377. Pattern: ('76',), ExpSup: 169.4, Utility: 3634
+378. Pattern: ('2', '40'), ExpSup: 40.74, Utility: 3519
+379. Pattern: ('32', '33', '49'), ExpSup: 13.97, Utility: 3515
+380. Pattern: ('66', '80'), ExpSup: 25.53, Utility: 3492
+381. Pattern: ('19', '66'), ExpSup: 18.09, Utility: 3482
+382. Pattern: ('16', '49'), ExpSup: 47.85, Utility: 3479
+383. Pattern: ('49', '6'), ExpSup: 38.91, Utility: 3422
+384. Pattern: ('108', '49', '549'), ExpSup: 14.38, Utility: 3422
+385. Pattern: ('20', '414'), ExpSup: 14.08, Utility: 3351
+386. Pattern: ('8',), ExpSup: 46.91, Utility: 3312
+387. Pattern: ('19', '605'), ExpSup: 13.55, Utility: 3311
+388. Pattern: ('32', '33', '40'), ExpSup: 16.2, Utility: 3302
+389. Pattern: ('102', '20'), ExpSup: 20.22, Utility: 3282
+390. Pattern: ('31', '40', '42'), ExpSup: 12.57, Utility: 3278
+391. Pattern: ('11', '33'), ExpSup: 29.5, Utility: 3267
+392. Pattern: ('12', '39'), ExpSup: 32.18, Utility: 3264
+393. Pattern: ('102', '90'), ExpSup: 53.01, Utility: 3234
+394. Pattern: ('31', '33'), ExpSup: 25.37, Utility: 3234
+395. Pattern: ('13', '42'), ExpSup: 25.97, Utility: 3231
+396. Pattern: ('6',), ExpSup: 144.56, Utility: 3226
+397. Pattern: ('16', '40', '49'), ExpSup: 17.34, Utility: 3216
+398. Pattern: ('108', '549'), ExpSup: 36.56, Utility: 3188
+399. Pattern: ('108', '33', '40'), ExpSup: 12.18, Utility: 3180
+400. Pattern: ('96',), ExpSup: 128.41, Utility: 3152
+401. Pattern: ('102', '40', '90'), ExpSup: 18.98, Utility: 3094
+402. Pattern: ('49', '72'), ExpSup: 15.5, Utility: 3084
+403. Pattern: ('86',), ExpSup: 105.14, Utility: 3054
+404. Pattern: ('13', '33'), ExpSup: 20.71, Utility: 3015
+405. Pattern: ('1',), ExpSup: 90.05, Utility: 3012
+406. Pattern: ('10', '148'), ExpSup: 10.96, Utility: 3008
+407. Pattern: ('12', '39', '40'), ExpSup: 12.04, Utility: 3007
+408. Pattern: ('1', '40'), ExpSup: 30.08, Utility: 2971
+409. Pattern: ('121',), ExpSup: 43.94, Utility: 2952
+410. Pattern: ('11', '39'), ExpSup: 25.74, Utility: 2952
+411. Pattern: ('127',), ExpSup: 48.45, Utility: 2940
+412. Pattern: ('238', '61'), ExpSup: 23.8, Utility: 2915
+413. Pattern: ('102', '311'), ExpSup: 34.84, Utility: 2904
+414. Pattern: ('10', '272'), ExpSup: 13.31, Utility: 2904
+415. Pattern: ('171', '80'), ExpSup: 20.0, Utility: 2888
+416. Pattern: ('20', '66'), ExpSup: 18.69, Utility: 2879
+417. Pattern: ('33', '70'), ExpSup: 12.85, Utility: 2874
+418. Pattern: ('271', '80'), ExpSup: 17.51, Utility: 2808
+419. Pattern: ('1', '49'), ExpSup: 25.32, Utility: 2795
+420. Pattern: ('31', '39'), ExpSup: 24.63, Utility: 2779
+421. Pattern: ('11', '33', '40'), ExpSup: 12.07, Utility: 2756
+422. Pattern: ('3', '33'), ExpSup: 22.41, Utility: 2702
+423. Pattern: ('10', '12'), ExpSup: 10.98, Utility: 2683
+424. Pattern: ('108', '40', '549'), ExpSup: 12.33, Utility: 2679
+425. Pattern: ('40', '49', '6'), ExpSup: 13.57, Utility: 2636
+426. Pattern: ('32', '39'), ExpSup: 41.74, Utility: 2610
+427. Pattern: ('20', '61'), ExpSup: 11.23, Utility: 2605
+428. Pattern: ('24', '33'), ExpSup: 35.62, Utility: 2594
+429. Pattern: ('102', '311', '40'), ExpSup: 11.67, Utility: 2573
+430. Pattern: ('24', '33', '49'), ExpSup: 11.59, Utility: 2559
+431. Pattern: ('19', '61'), ExpSup: 13.79, Utility: 2558
+432. Pattern: ('40', '6'), ExpSup: 43.83, Utility: 2550
+433. Pattern: ('103',), ExpSup: 79.57, Utility: 2514
+434. Pattern: ('27',), ExpSup: 61.66, Utility: 2496
+435. Pattern: ('31', '39', '40'), ExpSup: 11.53, Utility: 2495
+436. Pattern: ('226', '61'), ExpSup: 19.78, Utility: 2493
+437. Pattern: ('32', '39', '40'), ExpSup: 14.48, Utility: 2463
+438. Pattern: ('111', '39', '90'), ExpSup: 14.84, Utility: 2450
+439. Pattern: ('32', '39', '49'), ExpSup: 12.65, Utility: 2444
+440. Pattern: ('20', '311'), ExpSup: 14.17, Utility: 2420
+441. Pattern: ('10', '24'), ExpSup: 12.27, Utility: 2396
+442. Pattern: ('27', '49'), ExpSup: 20.53, Utility: 2391
+443. Pattern: ('10', '226'), ExpSup: 14.35, Utility: 2388
+444. Pattern: ('69',), ExpSup: 108.86, Utility: 2386
+445. Pattern: ('89',), ExpSup: 77.67, Utility: 2358
+446. Pattern: ('476', '50'), ExpSup: 16.41, Utility: 2335
+447. Pattern: ('102', '238', '49'), ExpSup: 10.94, Utility: 2322
+448. Pattern: ('16', '40'), ExpSup: 51.15, Utility: 2291
+449. Pattern: ('19', '90'), ExpSup: 16.03, Utility: 2272
+450. Pattern: ('42', '86'), ExpSup: 16.69, Utility: 2271
+451. Pattern: ('23',), ExpSup: 101.19, Utility: 2260
+452. Pattern: ('476', '80'), ExpSup: 17.69, Utility: 2260
+453. Pattern: ('20', '90'), ExpSup: 16.34, Utility: 2240
+454. Pattern: ('24', '605'), ExpSup: 13.38, Utility: 2234
+455. Pattern: ('3', '39'), ExpSup: 23.6, Utility: 2226
+456. Pattern: ('24', '33', '40'), ExpSup: 11.38, Utility: 2221
+457. Pattern: ('102', '238'), ExpSup: 34.23, Utility: 2188
+458. Pattern: ('3', '42'), ExpSup: 16.12, Utility: 2184
+459. Pattern: ('42', '6'), ExpSup: 18.84, Utility: 2162
+460. Pattern: ('52',), ExpSup: 93.1, Utility: 2148
+461. Pattern: ('130',), ExpSup: 87.65, Utility: 2040
+462. Pattern: ('24', '61'), ExpSup: 21.0, Utility: 2031
+463. Pattern: ('20', '238'), ExpSup: 14.03, Utility: 2018
+464. Pattern: ('272', '80'), ExpSup: 15.16, Utility: 1982
+465. Pattern: ('16',), ExpSup: 175.49, Utility: 1972
+466. Pattern: ('31', '32'), ExpSup: 26.69, Utility: 1971
+467. Pattern: ('55',), ExpSup: 45.87, Utility: 1964
+468. Pattern: ('311', '80'), ExpSup: 16.62, Utility: 1938
+469. Pattern: ('98',), ExpSup: 48.88, Utility: 1920
+470. Pattern: ('27', '40'), ExpSup: 19.9, Utility: 1914
+471. Pattern: ('23', '49'), ExpSup: 21.95, Utility: 1900
+472. Pattern: ('20', '339'), ExpSup: 11.04, Utility: 1890
+473. Pattern: ('16', '42'), ExpSup: 23.96, Utility: 1878
+474. Pattern: ('12', '90'), ExpSup: 22.7, Utility: 1861
+475. Pattern: ('20', '476'), ExpSup: 14.21, Utility: 1854
+476. Pattern: ('80', '90'), ExpSup: 18.69, Utility: 1853
+477. Pattern: ('12', '605'), ExpSup: 11.08, Utility: 1848
+478. Pattern: ('11', '66'), ExpSup: 14.32, Utility: 1847
+479. Pattern: ('102', '80'), ExpSup: 15.35, Utility: 1838
+480. Pattern: ('49', '59'), ExpSup: 24.48, Utility: 1834
+481. Pattern: ('12', '311'), ExpSup: 17.5, Utility: 1807
+482. Pattern: ('132',), ExpSup: 33.66, Utility: 1800
+483. Pattern: ('102', '238', '40'), ExpSup: 11.2, Utility: 1791
+484. Pattern: ('12', '66'), ExpSup: 15.2, Utility: 1731
+485. Pattern: ('13', '39'), ExpSup: 15.09, Utility: 1726
+486. Pattern: ('16', '33'), ExpSup: 19.81, Utility: 1718
+487. Pattern: ('107',), ExpSup: 13.17, Utility: 1710
+488. Pattern: ('59',), ExpSup: 82.18, Utility: 1702
+489. Pattern: ('24', '66'), ExpSup: 24.44, Utility: 1695
+490. Pattern: ('33', '6'), ExpSup: 14.71, Utility: 1689
+491. Pattern: ('476', '61'), ExpSup: 13.76, Utility: 1686
+492. Pattern: ('24', '39'), ExpSup: 25.86, Utility: 1681
+493. Pattern: ('148', '80'), ExpSup: 13.58, Utility: 1660
+494. Pattern: ('47',), ExpSup: 34.58, Utility: 1636
+495. Pattern: ('2', '42'), ExpSup: 13.07, Utility: 1629
+496. Pattern: ('83',), ExpSup: 146.88, Utility: 1618
+497. Pattern: ('24', '414'), ExpSup: 11.61, Utility: 1606
+498. Pattern: ('102', '24'), ExpSup: 23.69, Utility: 1601
+499. Pattern: ('238', '80'), ExpSup: 15.33, Utility: 1598
+500. Pattern: ('23', '33'), ExpSup: 16.85, Utility: 1573
+=============  TOP-K UFPs v1.20 - STATS =============
+ Transactions count from database : 88162
+ Candidates count : 0
+ Total utility : 10311000
+ Algorithm run time : 449 seconds
+ Peak memory usage : 124.56 MB

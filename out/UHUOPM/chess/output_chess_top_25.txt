@@ -1,0 +1,22 @@
+minUtil: 26008
+Name: 40: prob: 1579.27: utility: 188760
+Name: 48: prob: 1500.86: utility: 115367
+Name: 52: prob: 1616.54: utility: 104178
+Name: 34: prob: 1493.64: utility: 99330
+Name: 72: prob: 1177.80: utility: 77802
+Name: 29: prob: 1598.92: utility: 70088
+Name: 60: prob: 1565.64: utility: 68908
+Name: 56: prob: 1513.93: utility: 66780
+Name: 66: prob: 1498.92: utility: 66644
+Name: 3: prob: 1407.44: utility: 61608
+Name: 64: prob: 1337.59: utility: 56768
+Name: 7: prob: 1535.24: utility: 50790
+Name: 5: prob: 1466.73: utility: 48369
+Name: 31: prob: 1274.29: utility: 41649
+Name: 17: prob: 1251.12: utility: 40662
+Name: 9: prob: 1446.46: utility: 31818
+=============  TOP-K UHOUPM - STATS =============
+ Transactions count from database : 3197
+ Sum utility : 1189521
+ Algorithm run time : 317 seconds
+ Peak memory usage : 145.81 MB

@@ -1,0 +1,13 @@
+minUtil: 30
+c, d, a: 0.98: 42
+c, d, b: 0.88: 40
+c, d: 1.95: 38
+d, a: 1.2: 35
+d, a, b: 0.55: 33
+d: 3.3: 30
+=============  TOP-K UFPs v1.20 - STATS =============
+ Transactions count from database : 7
+ Candidates count : 19
+ Sum utility : 218
+ Algorithm run time : 0 seconds
+ Peak memory usage : 0.01 MB
