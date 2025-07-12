@@ -903,5 +903,5 @@ minUtil: 1491
  Transactions count from database : 88162
  Candidates count : 1201
  Sum utility : 15668304
- Algorithm run time : 1214 seconds
+ Algorithm run time : 1565 seconds
  Peak memory usage : 34.59 MB

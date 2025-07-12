@@ -1,0 +1,107 @@
+minUtil: 19122
+Name: 40, 49: prob: 7297.13: utility: 476144
+Name: 49: prob: 21135.04: utility: 461182
+Name: 40: prob: 25268.80: utility: 277044
+Name: 33: prob: 7519.53: utility: 250500
+Name: 40, 42: prob: 2824.13: utility: 247864
+Name: 42, 49: prob: 2261.65: utility: 245579
+Name: 42: prob: 7426.48: utility: 245544
+Name: 40, 42, 49: prob: 910.21: utility: 238995
+Name: 33, 49: prob: 1998.37: utility: 219766
+Name: 33, 40: prob: 2084.56: utility: 184488
+Name: 33, 40, 49: prob: 670.46: utility: 176116
+Name: 39, 49: prob: 1978.98: utility: 173210
+Name: 39: prob: 7775.43: utility: 169166
+Name: 39, 40: prob: 2602.54: utility: 168244
+Name: 39, 40, 49: prob: 763.77: utility: 165797
+Name: 37, 39: prob: 689.54: utility: 150880
+Name: 37: prob: 1470.53: utility: 128112
+Name: 39, 42: prob: 972.90: utility: 107009
+Name: 33, 42: prob: 787.85: utility: 104379
+Name: 39, 40, 42: prob: 379.83: utility: 99862
+Name: 37, 40: prob: 503.52: utility: 99524
+Name: 171, 39: prob: 757.70: utility: 98740
+Name: 39, 42, 49: prob: 298.74: utility: 90926
+Name: 37, 49: prob: 377.71: utility: 77214
+Name: 33, 39: prob: 703.57: utility: 76774
+Name: 171: prob: 1553.45: utility: 67864
+Name: 2239: prob: 846.30: utility: 65338
+Name: 414: prob: 948.79: utility: 61290
+Name: 10: prob: 703.35: utility: 60752
+Name: 171, 40: prob: 522.71: utility: 55961
+Name: 2239, 40: prob: 315.54: utility: 55946
+Name: 49, 66: prob: 631.75: utility: 55430
+Name: 171, 49: prob: 376.11: utility: 50516
+Name: 66: prob: 2237.39: utility: 49622
+Name: 302: prob: 598.42: utility: 47292
+Name: 605: prob: 608.92: utility: 46977
+Name: 40, 66: prob: 695.35: utility: 45860
+Name: 49, 90: prob: 697.11: utility: 45822
+Name: 111, 39: prob: 687.15: utility: 44670
+Name: 61: prob: 740.74: utility: 40750
+Name: 271: prob: 864.13: utility: 37676
+Name: 311, 49: prob: 421.37: utility: 36792
+Name: 124: prob: 659.40: utility: 35895
+Name: 977: prob: 397.35: utility: 35664
+Name: 80: prob: 791.67: utility: 34944
+Name: 339: prob: 642.25: utility: 34435
+Name: 19: prob: 436.69: utility: 32844
+Name: 271, 40: prob: 296.51: utility: 32590
+Name: 256: prob: 739.05: utility: 32420
+Name: 250: prob: 573.37: utility: 31650
+Name: 476, 49: prob: 373.98: utility: 31440
+Name: 439: prob: 923.25: utility: 30564
+Name: 50: prob: 549.08: utility: 30480
+Name: 311, 40: prob: 449.73: utility: 30249
+Name: 40, 90: prob: 688.82: utility: 29931
+Name: 16011: prob: 653.53: utility: 29192
+Name: 265: prob: 437.09: utility: 29040
+Name: 79: prob: 534.08: utility: 28975
+Name: 148: prob: 884.64: utility: 28974
+Name: 1345: prob: 370.65: utility: 28917
+Name: 102, 49: prob: 336.45: utility: 28682
+Name: 226, 49: prob: 428.75: utility: 28404
+Name: 311: prob: 1294.12: utility: 28166
+Name: 20: prob: 511.41: utility: 28090
+Name: 40, 439: prob: 310.18: utility: 27502
+Name: 238, 49: prob: 429.70: utility: 27208
+Name: 426: prob: 298.90: utility: 26888
+Name: 176: prob: 488.04: utility: 26395
+Name: 287: prob: 608.25: utility: 26252
+Name: 226, 40: prob: 599.07: utility: 25730
+Name: 1394: prob: 593.49: utility: 25624
+Name: 46: prob: 459.62: utility: 24605
+Name: 534: prob: 749.24: utility: 24573
+Name: 40, 476: prob: 381.96: utility: 24563
+Name: 102: prob: 1139.52: utility: 24494
+Name: 810: prob: 307.31: utility: 24255
+Name: 476: prob: 1102.97: utility: 23850
+Name: 12926: prob: 728.56: utility: 23745
+Name: 1147: prob: 701.64: utility: 23694
+Name: 1579: prob: 450.29: utility: 23500
+Name: 272, 40: prob: 360.91: utility: 23373
+Name: 545: prob: 430.03: utility: 23145
+Name: 260: prob: 335.33: utility: 23142
+Name: 13042: prob: 513.38: utility: 23044
+Name: 102, 40: prob: 362.56: utility: 23007
+Name: 272: prob: 1038.03: utility: 22948
+Name: 380: prob: 326.83: utility: 22860
+Name: 676: prob: 315.82: utility: 22715
+Name: 682: prob: 363.87: utility: 22596
+Name: 111, 49: prob: 351.26: utility: 22572
+Name: 1601: prob: 405.78: utility: 21955
+Name: 230: prob: 400.62: utility: 21895
+Name: 523: prob: 492.10: utility: 21228
+Name: 238, 40: prob: 491.44: utility: 21092
+Name: 90: prob: 1913.99: utility: 21008
+Name: 2047: prob: 309.97: utility: 20874
+Name: 665: prob: 372.61: utility: 20590
+Name: 15833: prob: 571.89: utility: 19563
+Name: 1328: prob: 886.77: utility: 19490
+Name: 111, 40: prob: 436.32: utility: 19122
+=============  TOP-K UHOUPM - STATS =============
+ Transactions count from database : 88163
+ Candidates count : 149
+ Sum utility : 7122260
+ Algorithm run time : 492 seconds
+ Peak memory usage : 82.95 MB

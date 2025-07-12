@@ -247,6 +247,7 @@ minUtil: 4804
 988, 1281: 0.36: 5826
 968: 8.19: 5760
 890, 191: 1.37: 5715
+890, 1493, 191: 0.88: 5681
 1399, 1426: 0.86: 5680
 1468: 8.08: 5670
 787: 7.64: 5662
@@ -274,11 +275,12 @@ minUtil: 4804
 890, 1410, 1493: 0.91: 4876
 1118, 502, 968: 0.26: 4873
 1472, 170: 0.35: 4860
+1104, 1470, 1174, 1180, 1380: 0.16: 4853
 1472, 1389, 819: 0.43: 4851
 1362, 946, 742: 0.09: 4827
 =============  TOP-K UFPs v1.20 - STATS =============
  Transactions count from database : 4141
- Candidates count : 1518
- Sum utility : 3120864
- Algorithm run time : 4 seconds
- Peak memory usage : 0.05 MB
+ Candidates count : 1860
+ Sum utility : 3131398
+ Algorithm run time : 5 seconds
+ Peak memory usage : 0.15 MB

@@ -1,12 +1,13 @@
-minUtil: 28
+minUtil: 23
 Name: a, c, d: prob: 0.97: utility: 42
 Name: b, c, d: prob: 0.87: utility: 40
 Name: c, d: prob: 1.95: utility: 38
 Name: a, d: prob: 1.20: utility: 35
 Name: d: prob: 3.30: utility: 30
-Name: a, b: prob: 1.64: utility: 23
+Name: b, d: prob: 1.14: utility: 28
 =============  TOP-K UHOUPM - STATS =============
  Transactions count from database : 8
- Sum utility : 208
- Algorithm run time : 0 seconds
- Peak memory usage : 164.90 MB
+ Candidates count : 15
+ Sum utility : 213
+ Algorithm run time : 1 seconds
+ Peak memory usage : 356.23 MB

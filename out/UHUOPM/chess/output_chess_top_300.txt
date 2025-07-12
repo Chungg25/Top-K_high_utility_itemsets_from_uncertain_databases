@@ -1,0 +1,307 @@
+minUtil: 139546
+Name: 40, 48, 52: prob: 378.43: utility: 385381
+Name: 34, 40, 52: prob: 373.71: utility: 373506
+Name: 34, 40, 48: prob: 347.15: utility: 366010
+Name: 29, 40, 52: prob: 398.42: utility: 356097
+Name: 40, 52, 60: prob: 394.11: utility: 352926
+Name: 40, 48, 60: prob: 366.75: utility: 351142
+Name: 40, 52, 66: prob: 373.34: utility: 339395
+Name: 40, 52, 56: prob: 382.16: utility: 339206
+Name: 40, 48, 66: prob: 350.19: utility: 338147
+Name: 34, 40, 60: prob: 363.90: utility: 336770
+Name: 40, 48, 56: prob: 343.40: utility: 332384
+Name: 40, 52, 7: prob: 382.94: utility: 328740
+Name: 34, 40, 66: prob: 343.62: utility: 325229
+Name: 40, 48, 7: prob: 357.88: utility: 325169
+Name: 34, 40, 56: prob: 347.32: utility: 323388
+Name: 40, 5, 52: prob: 368.61: utility: 317307
+Name: 3, 40, 52: prob: 355.63: utility: 316103
+Name: 34, 40, 7: prob: 363.06: utility: 314141
+Name: 40, 48, 5: prob: 334.92: utility: 313168
+Name: 3, 40, 48: prob: 323.83: utility: 312616
+Name: 34, 40, 5: prob: 340.41: utility: 309466
+Name: 40, 60, 66: prob: 369.02: utility: 307626
+Name: 40, 52, 58: prob: 401.34: utility: 306482
+Name: 36, 40, 48: prob: 365.43: utility: 302368
+Name: 3, 34, 40: prob: 322.87: utility: 302357
+Name: 40, 56, 60: prob: 361.67: utility: 302242
+Name: 40, 52, 64: prob: 344.17: utility: 297061
+Name: 36, 40, 52: prob: 382.23: utility: 296932
+Name: 40, 52, 62: prob: 391.25: utility: 294543
+Name: 40, 48, 64: prob: 320.29: utility: 293294
+Name: 40, 48, 62: prob: 355.28: utility: 292743
+Name: 34, 48, 52: prob: 354.20: utility: 292525
+Name: 40, 60, 7: prob: 372.99: utility: 292006
+Name: 40, 52, 9: prob: 354.80: utility: 291736
+Name: 40, 52: prob: 800.31: utility: 290726
+Name: 40, 48: prob: 741.82: utility: 290391
+Name: 40, 52, 72: prob: 305.21: utility: 290251
+Name: 40, 56, 66: prob: 345.75: utility: 289759
+Name: 40, 48, 9: prob: 332.95: utility: 287347
+Name: 34, 40, 64: prob: 314.38: utility: 285671
+Name: 3, 40, 60: prob: 342.98: utility: 283969
+Name: 34, 36, 40: prob: 356.60: utility: 283053
+Name: 40, 5, 60: prob: 354.73: utility: 281918
+Name: 40, 56, 7: prob: 357.18: utility: 281534
+Name: 34, 40, 62: prob: 353.99: utility: 281448
+Name: 40, 66, 7: prob: 356.36: utility: 280872
+Name: 34, 40, 9: prob: 328.83: utility: 280134
+Name: 25, 40, 48: prob: 341.09: utility: 278431
+Name: 34, 40: prob: 737.94: utility: 277239
+Name: 29, 48, 52: prob: 375.77: utility: 275331
+Name: 48, 52, 60: prob: 380.81: utility: 274296
+Name: 25, 40, 52: prob: 360.24: utility: 274053
+Name: 3, 40, 56: prob: 330.76: utility: 273313
+Name: 40, 5, 66: prob: 342.58: utility: 273294
+Name: 3, 40, 66: prob: 322.63: utility: 272884
+Name: 31, 40, 52: prob: 318.93: utility: 270551
+Name: 40, 5, 56: prob: 336.64: utility: 269887
+Name: 17, 40, 52: prob: 311.01: utility: 265191
+Name: 3, 40, 7: prob: 333.99: utility: 264949
+Name: 48, 52, 66: prob: 355.51: utility: 264760
+Name: 40, 60, 64: prob: 328.19: utility: 264256
+Name: 29, 34, 52: prob: 371.14: utility: 262342
+Name: 40, 42, 52: prob: 338.02: utility: 261174
+Name: 25, 34, 40: prob: 332.31: utility: 261074
+Name: 48, 52, 56: prob: 359.51: utility: 260814
+Name: 40, 5, 7: prob: 350.08: utility: 260802
+Name: 40, 42, 48: prob: 324.29: utility: 260644
+Name: 36, 40, 60: prob: 371.27: utility: 260533
+Name: 40, 60, 62: prob: 377.79: utility: 259047
+Name: 34, 52, 60: prob: 370.29: utility: 258390
+Name: 40, 60, 9: prob: 341.05: utility: 258082
+Name: 40, 64, 66: prob: 314.07: utility: 255256
+Name: 40, 56, 64: prob: 319.51: utility: 255036
+Name: 40, 60: prob: 773.62: utility: 253428
+Name: 3, 40, 5: prob: 321.19: utility: 252632
+Name: 34, 40, 42: prob: 315.05: utility: 251543
+Name: 40, 56, 9: prob: 332.76: utility: 251114
+Name: 40, 56, 62: prob: 363.14: utility: 251027
+Name: 48, 52, 7: prob: 361.92: utility: 250826
+Name: 34, 52, 66: prob: 351.90: utility: 250124
+Name: 36, 40, 66: prob: 352.75: utility: 250117
+Name: 40, 44, 52: prob: 329.62: utility: 249617
+Name: 34, 52, 56: prob: 355.20: utility: 249452
+Name: 36, 40, 56: prob: 360.86: utility: 249345
+Name: 40, 62, 66: prob: 357.64: utility: 248474
+Name: 40, 66, 9: prob: 323.81: utility: 247927
+Name: 40, 44, 48: prob: 309.83: utility: 246635
+Name: 3, 48, 52: prob: 336.05: utility: 245403
+Name: 40, 46, 52: prob: 322.16: utility: 244378
+Name: 40, 64, 7: prob: 319.13: utility: 244313
+Name: 40, 66: prob: 734.99: utility: 243649
+Name: 40, 56: prob: 746.84: utility: 243050
+Name: 31, 40, 60: prob: 307.99: utility: 242552
+Name: 25, 40, 60: prob: 354.30: utility: 242299
+Name: 40, 5, 64: prob: 315.37: utility: 240609
+Name: 48, 5, 52: prob: 351.31: utility: 240306
+Name: 36, 40, 7: prob: 366.49: utility: 238719
+Name: 34, 40, 44: prob: 302.55: utility: 237823
+Name: 34, 52, 7: prob: 367.52: utility: 237717
+Name: 29, 52, 60: prob: 394.04: utility: 237130
+Name: 40, 62, 7: prob: 362.71: utility: 236980
+Name: 40, 7, 9: prob: 332.45: utility: 236589
+Name: 31, 40, 66: prob: 303.11: utility: 234033
+Name: 34, 5, 52: prob: 349.26: utility: 233205
+Name: 3, 34, 52: prob: 337.02: utility: 233176
+Name: 25, 40, 66: prob: 334.08: utility: 232894
+Name: 3, 36, 40: prob: 336.48: utility: 232657
+Name: 3, 40, 9: prob: 310.98: utility: 232448
+Name: 3, 40, 62: prob: 334.87: utility: 232289
+Name: 40, 52, 74: prob: 314.24: utility: 231562
+Name: 40, 7: prob: 757.98: utility: 231271
+Name: 40, 42, 60: prob: 331.93: utility: 230511
+Name: 36, 40, 5: prob: 349.13: utility: 230337
+Name: 25, 40, 56: prob: 334.89: utility: 230132
+Name: 40, 5, 62: prob: 348.59: utility: 230098
+Name: 40, 5, 9: prob: 319.50: utility: 229755
+Name: 52, 60, 66: prob: 382.48: utility: 228982
+Name: 29, 52, 56: prob: 385.51: utility: 228802
+Name: 29, 52, 66: prob: 379.46: utility: 228708
+Name: 48, 52, 58: prob: 382.52: utility: 228022
+Name: 48, 52, 64: prob: 327.01: utility: 227891
+Name: 3, 40: prob: 693.79: utility: 226522
+Name: 52, 56, 60: prob: 382.94: utility: 225700
+Name: 36, 48, 52: prob: 365.27: utility: 225653
+Name: 40, 42, 66: prob: 319.14: utility: 223883
+Name: 40, 5: prob: 717.76: utility: 223282
+Name: 40, 42, 56: prob: 318.81: utility: 220638
+Name: 25, 40, 7: prob: 339.83: utility: 220259
+Name: 36, 40, 64: prob: 322.92: utility: 218788
+Name: 40, 44, 60: prob: 321.98: utility: 218344
+Name: 34, 52, 64: prob: 318.74: utility: 217920
+Name: 48, 52, 9: prob: 344.13: utility: 217428
+Name: 48, 52, 62: prob: 361.78: utility: 217175
+Name: 40, 62, 64: prob: 320.33: utility: 217116
+Name: 52, 56, 66: prob: 364.11: utility: 216840
+Name: 29, 52, 7: prob: 383.25: utility: 216491
+Name: 40, 72: prob: 582.53: utility: 214715
+Name: 40, 46, 60: prob: 308.96: utility: 214588
+Name: 29, 3, 52: prob: 356.86: utility: 213986
+Name: 25, 3, 40: prob: 309.12: utility: 213615
+Name: 34, 52, 58: prob: 369.93: utility: 213085
+Name: 52, 60, 7: prob: 382.38: utility: 212686
+Name: 40, 64: prob: 671.08: utility: 212460
+Name: 48, 52: prob: 761.59: utility: 212460
+Name: 25, 40, 5: prob: 319.01: utility: 212410
+Name: 3, 52, 60: prob: 353.25: utility: 211774
+Name: 40, 42, 64: prob: 315.54: utility: 211272
+Name: 40, 44, 56: prob: 309.27: utility: 210291
+Name: 40, 42, 7: prob: 320.46: utility: 209615
+Name: 25, 48, 52: prob: 347.16: utility: 208086
+Name: 36, 40, 9: prob: 333.78: utility: 207679
+Name: 34, 52, 9: prob: 342.29: utility: 207552
+Name: 29, 5, 52: prob: 375.20: utility: 207390
+Name: 40, 62, 9: prob: 338.72: utility: 207074
+Name: 34, 36, 52: prob: 357.44: utility: 206576
+Name: 52, 56, 7: prob: 366.94: utility: 206467
+Name: 36, 40, 62: prob: 367.88: utility: 205903
+Name: 52, 66, 7: prob: 368.06: utility: 205156
+Name: 3, 52, 56: prob: 349.57: utility: 204976
+Name: 52, 60, 72: prob: 307.56: utility: 204760
+Name: 52, 66, 72: prob: 302.30: utility: 204670
+Name: 5, 52, 60: prob: 373.19: utility: 204434
+Name: 34, 52, 62: prob: 361.81: utility: 204089
+Name: 3, 52, 66: prob: 338.52: utility: 203718
+Name: 40, 9: prob: 704.22: utility: 200832
+Name: 40, 44, 7: prob: 312.87: utility: 200000
+Name: 25, 40, 64: prob: 304.96: utility: 199994
+Name: 5, 52, 66: prob: 357.62: utility: 198732
+Name: 36, 40: prob: 761.37: utility: 198648
+Name: 34, 52: prob: 750.72: utility: 197472
+Name: 40, 62: prob: 764.24: utility: 197416
+Name: 29, 52, 64: prob: 337.88: utility: 197306
+Name: 40, 44, 5: prob: 303.41: utility: 196989
+Name: 5, 52, 56: prob: 356.04: utility: 196758
+Name: 31, 36, 40: prob: 306.05: utility: 195893
+Name: 52, 60, 64: prob: 340.75: utility: 195006
+Name: 40, 46, 7: prob: 303.14: utility: 194890
+Name: 31, 40, 62: prob: 301.12: utility: 194010
+Name: 42, 48, 52: prob: 330.79: utility: 194000
+Name: 3, 52, 7: prob: 339.46: utility: 193959
+Name: 25, 36, 40: prob: 346.23: utility: 193309
+Name: 25, 40, 62: prob: 348.90: utility: 190520
+Name: 25, 40, 9: prob: 314.91: utility: 190445
+Name: 40, 68: prob: 495.89: utility: 190386
+Name: 31, 40: prob: 629.97: utility: 190050
+Name: 25, 34, 52: prob: 337.41: utility: 189973
+Name: 29, 52, 58: prob: 399.23: utility: 189208
+Name: 52, 56, 64: prob: 327.84: utility: 188852
+Name: 40: prob: 1579.27: utility: 188760
+Name: 52, 64, 66: prob: 322.82: utility: 188594
+Name: 52, 58, 60: prob: 398.79: utility: 186894
+Name: 17, 40: prob: 617.84: utility: 186881
+Name: 29, 52, 9: prob: 359.89: utility: 185704
+Name: 5, 52, 7: prob: 359.47: utility: 185259
+Name: 44, 48, 52: prob: 314.27: utility: 184517
+Name: 3, 5, 52: prob: 334.21: utility: 184215
+Name: 25, 40: prob: 712.44: utility: 183618
+Name: 52, 60, 9: prob: 358.34: utility: 183408
+Name: 29, 36, 52: prob: 376.92: utility: 183387
+Name: 11, 40: prob: 524.94: utility: 182648
+Name: 34, 42, 52: prob: 322.50: utility: 182420
+Name: 36, 40, 42: prob: 324.97: utility: 182219
+Name: 46, 48, 52: prob: 302.00: utility: 181311
+Name: 40, 42, 62: prob: 322.41: utility: 181307
+Name: 36, 52, 60: prob: 377.47: utility: 181047
+Name: 29, 52, 62: prob: 391.77: utility: 181017
+Name: 52, 56, 58: prob: 389.43: utility: 180271
+Name: 52, 58, 66: prob: 377.40: utility: 180201
+Name: 52, 56, 9: prob: 349.19: utility: 179300
+Name: 52, 60, 62: prob: 391.03: utility: 178783
+Name: 3, 52, 64: prob: 309.14: utility: 177336
+Name: 52, 64, 7: prob: 324.06: utility: 177017
+Name: 52, 66, 9: prob: 339.43: utility: 176736
+Name: 31, 52, 60: prob: 322.51: utility: 176644
+Name: 29, 31, 52: prob: 318.48: utility: 176613
+Name: 40, 44, 62: prob: 317.58: utility: 174821
+Name: 40, 42: prob: 670.85: utility: 174811
+Name: 36, 52, 56: prob: 367.95: utility: 174448
+Name: 36, 52, 66: prob: 354.44: utility: 174267
+Name: 36, 40, 44: prob: 316.97: utility: 173992
+Name: 52, 56, 62: prob: 374.70: utility: 173982
+Name: 5, 52, 64: prob: 324.92: utility: 173489
+Name: 34, 44, 52: prob: 307.31: utility: 173482
+Name: 17, 29, 52: prob: 315.29: utility: 173302
+Name: 29, 52: prob: 802.11: utility: 172766
+Name: 52, 62, 66: prob: 371.53: utility: 171804
+Name: 40, 50: prob: 482.80: utility: 171658
+Name: 17, 52, 60: prob: 307.88: utility: 171332
+Name: 36, 40, 46: prob: 306.65: utility: 170599
+Name: 52, 60: prob: 797.49: utility: 170582
+Name: 31, 52, 66: prob: 309.71: utility: 170520
+Name: 40, 46, 62: prob: 306.05: utility: 170315
+Name: 25, 29, 52: prob: 369.96: utility: 168932
+Name: 3, 52, 58: prob: 361.37: utility: 167984
+Name: 25, 52, 60: prob: 366.94: utility: 167886
+Name: 25, 40, 42: prob: 304.94: utility: 167827
+Name: 31, 52, 56: prob: 303.07: utility: 167814
+Name: 40, 44: prob: 652.75: utility: 167125
+Name: 17, 52, 56: prob: 301.50: utility: 166479
+Name: 52, 58, 7: prob: 383.96: utility: 166437
+Name: 52, 58, 72: prob: 304.56: utility: 166198
+Name: 3, 52, 9: prob: 327.49: utility: 166008
+Name: 52, 56: prob: 776.05: utility: 164720
+Name: 40, 62, 74: prob: 303.14: utility: 164523
+Name: 52, 66: prob: 758.94: utility: 164458
+Name: 52, 7, 9: prob: 344.61: utility: 164110
+Name: 40, 46: prob: 631.39: utility: 163761
+Name: 3, 36, 52: prob: 341.54: utility: 162511
+Name: 1, 40: prob: 408.00: utility: 162170
+Name: 25, 52, 66: prob: 347.63: utility: 161892
+Name: 36, 52, 7: prob: 365.75: utility: 161217
+Name: 36, 40, 74: prob: 301.70: utility: 161171
+Name: 3, 52, 62: prob: 348.02: utility: 161108
+Name: 29, 42, 52: prob: 341.59: utility: 160320
+Name: 25, 52, 56: prob: 349.16: utility: 160298
+Name: 5, 52, 58: prob: 374.91: utility: 159640
+Name: 42, 52, 60: prob: 345.18: utility: 159517
+Name: 52, 62, 7: prob: 367.53: utility: 158817
+Name: 31, 52, 7: prob: 303.32: utility: 158721
+Name: 5, 52, 9: prob: 335.42: utility: 158099
+Name: 23, 40: prob: 446.49: utility: 156025
+Name: 40, 74: prob: 621.55: utility: 155667
+Name: 42, 52, 66: prob: 331.03: utility: 155426
+Name: 52, 58, 64: prob: 336.61: utility: 155418
+Name: 36, 5, 52: prob: 356.63: utility: 154502
+Name: 52, 72: prob: 611.70: utility: 154086
+Name: 29, 44, 52: prob: 330.16: utility: 153857
+Name: 5, 52, 62: prob: 362.20: utility: 153466
+Name: 3, 52: prob: 718.60: utility: 153244
+Name: 42, 52, 56: prob: 329.94: utility: 153209
+Name: 31, 5, 52: prob: 304.73: utility: 152889
+Name: 52, 64, 9: prob: 301.75: utility: 152346
+Name: 27, 40: prob: 537.19: utility: 152164
+Name: 44, 52, 60: prob: 330.94: utility: 151689
+Name: 36, 52, 64: prob: 325.27: utility: 150979
+Name: 29, 46, 52: prob: 326.20: utility: 150723
+Name: 15, 40: prob: 491.53: utility: 150509
+Name: 52, 7: prob: 774.11: utility: 150447
+Name: 52, 62, 64: prob: 330.06: utility: 149250
+Name: 46, 52, 60: prob: 324.81: utility: 149050
+Name: 25, 3, 52: prob: 318.46: utility: 148812
+Name: 19, 40: prob: 464.05: utility: 148348
+Name: 25, 52, 7: prob: 350.56: utility: 148188
+Name: 44, 52, 56: prob: 320.67: utility: 147288
+Name: 44, 52, 66: prob: 310.25: utility: 145781
+Name: 42, 52, 64: prob: 321.15: utility: 145513
+Name: 46, 52, 66: prob: 310.23: utility: 144572
+Name: 5, 52: prob: 745.11: utility: 144276
+Name: 38, 40: prob: 540.68: utility: 143849
+Name: 46, 52, 56: prob: 311.55: utility: 143366
+Name: 40, 54: prob: 545.90: utility: 143216
+Name: 3, 42, 52: prob: 308.90: utility: 142814
+Name: 21, 40: prob: 553.52: utility: 142736
+Name: 29, 52, 74: prob: 306.05: utility: 142067
+Name: 52, 64: prob: 684.00: utility: 141962
+Name: 25, 5, 52: prob: 332.66: utility: 141928
+Name: 40, 70: prob: 500.09: utility: 140900
+Name: 42, 52, 7: prob: 330.27: utility: 140535
+Name: 52, 56, 74: prob: 306.16: utility: 139785
+Name: 52, 58, 9: prob: 364.03: utility: 139546
+=============  TOP-K UHOUPM - STATS =============
+ Transactions count from database : 3197
+ Candidates count : 586
+ Sum utility : 65242081
+ Algorithm run time : 275 seconds
+ Peak memory usage : 2309.92 MB
